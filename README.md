@@ -55,4 +55,4 @@ Tu możesz zamieścić zrzuty ekranu aplikacji lub link do wersji działającej 
 - Nowoczesna przeglądarka wspierająca JavaScript ES6.
 
 ## Autor
-[00Kubi] - [Twój GitHub](https://github.com/00Kubi) 
+[00Kubi](https://github.com/00Kubi) 
