@@ -43,9 +43,6 @@ Prosta aplikacja webowa do przeliczania wartości kryptowalut na wybraną walut�
 Przeliczanie 0.5 Bitcoin na PLN:
 - Wynik: `0.5 Bitcoin to 123456.78 PLN`
 
-## Demo
-Tu możesz zamieścić zrzuty ekranu aplikacji lub link do wersji działającej na serwerze.
-
 ## Przyszłe funkcjonalności (opcjonalne)
 - Dodanie większej liczby kryptowalut.
 - Integracja z innymi API dostarczającymi kursy walut.
